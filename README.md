@@ -1,4 +1,4 @@
 UnityThirdPersonTutorial
 ========================
 
-Sample project showing third person camera behavior and Mecanim animations
+Sample project showing third person Camera behavior and Mecanism Animations
